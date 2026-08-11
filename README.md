@@ -31,7 +31,7 @@ NeoBrowser is our custom-built, premium browsing experience designed for student
 
 ## 🎬 See It In Action
  
-![NeoBrowser Exam Helper Demo](https://neopass.tech/GIF/HackerRank%20Integration%20GIF.gif)
+![NeoBrowser Exam Helper Demo](https://neopass.tech/GIF/NeoExamShield%20&%20NeoBrowser%20Bypass%20GIF.gif)
 
 ## ⬇️ Access & Installation
 
