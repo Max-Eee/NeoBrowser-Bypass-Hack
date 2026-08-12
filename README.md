@@ -3,6 +3,10 @@
 # <i>**`Pro`** NeoPass NeoBrowser</i>
 
 > **NeoPass Pro Exclusive** - [Click here to get Pro and unlock NeoBrowser](https://neopass.tech/pro)
+<br>
+<a href="https://get.microsoft.com/installer/download/9NZ5LHTCV5WQ?referrer=appbadge" target="_self" >
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 NeoBrowser is our custom-built, premium browsing experience designed for students taking tests on **`Iamneo portal`**, **`HackerRank`**, and other strict exam environments. It comes with the Exam Helper built directly into the browser to bypass heavy network restrictions seamlessly.
 
